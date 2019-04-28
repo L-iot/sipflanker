@@ -1,5 +1,5 @@
-#labels Featured
-SIPFLANKER USER’S MANUAL
+
+SIPFLANKER USER MANUAL
 
 
 Many  (if not most) VoIP devices have available a Web GUI for their configuration,
@@ -26,8 +26,11 @@ To use Sipflanker, simply enter the Windows DOS shell, navigate to the folder wh
 you placed sipflanker.py, and type “sipflanker.py”. Enter the IP, or use the format 
 xxx.xxx.xxx.0-100 Using “-“ to indicate ranges. Presently only C networks can be searched.
 
+For unix systems cd into the directory where yo downloaded or cloned Sipflanker.
+then 
+*finish editing*******************************************************
 
-The scan results will be desplayed on the screen, and also written to the file 
-flank.txt, present in the same folder where sipflanker.py resides.
 
-If  you have any questions or comments, you can contact me at sergio[at]infosegura.net.
+The scan results will be displayed in the terminal, and also written to the file 
+flank.txt, present in the same folder/directory where sipflanker.py resides.
+
